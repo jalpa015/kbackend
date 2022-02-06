@@ -1,4 +1,4 @@
-#Getting Started
+## Getting Started
 
 #### On the local machine -
 
@@ -35,5 +35,5 @@ It can be done programmatically however, just stopping the EC2 instance as of no
 
 ---
 ---
-#####References - 
+##### References -
 1. [Ref 1](https://kgaurav23.medium.com/deploying-hosting-spring-boot-applications-on-aws-ec2-7babc15a1ab6)
